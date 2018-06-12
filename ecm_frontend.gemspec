@@ -2,7 +2,7 @@
 # project in your rails apps through git.
 Gem::Specification.new do |s|
   s.authors = "Roberto Vasquez Angel"
-  s.name = "ecm_frontend"
+  s.name = "ecm_frontend-legacy"
   s.summary = "Insert EcmFrontend summary."
   s.description = "Insert EcmFrontend description."
   s.files = Dir["{app,lib,config}/**/*"] + ["MIT-LICENSE", "Rakefile", "Gemfile", "README.rdoc"]
